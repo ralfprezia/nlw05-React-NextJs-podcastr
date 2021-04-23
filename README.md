@@ -1,2 +1,3 @@
 # nlw05-React-NextJs-podcastr
-Loading...
+Concluido.
+
